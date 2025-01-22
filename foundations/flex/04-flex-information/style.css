@@ -24,3 +24,24 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.title, .text{
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.container{
+  display: flex;
+  gap: 52px;
+  justify-content: center;
+}
+
+.card{
+  flex: 0 1 200px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
+  
